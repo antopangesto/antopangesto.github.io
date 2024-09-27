@@ -1,6 +1,6 @@
 # Site
-name: "NinggraIngga"
-title: "NinggraIngga"
+name: "Neng-Iska"
+title: "Neng-Iska"
 description: "Discover the world's Hidden Vacation Gems"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
@@ -45,7 +45,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 4
+paginate: 12
 paginate_path: /page:num/
     
 # Other
