@@ -1,6 +1,6 @@
 # Site
-name: "Neng-Iska"
-title: "Neng-Iska"
+name: "antopangesto"
+title: "antopangesto"
 description: "Discover the world's Hidden Vacation Gems"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
@@ -45,7 +45,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 12
+paginate: 14
 paginate_path: /page:num/
     
 # Other
